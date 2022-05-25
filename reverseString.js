@@ -10,8 +10,8 @@ const loadmubby = readMubby.map((loadmbk) => {
 
 console.log(loadmubby);
 
-const name = "Mubarak Olalekan";
+const names = "Mubarak Olalekan";
 
-const nameReverse = name.split("").reverse().join("");
+const nameReverse = names.split("").reverse().join("");
 
 console.log(nameReverse);
