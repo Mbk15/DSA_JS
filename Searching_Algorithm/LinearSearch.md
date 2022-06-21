@@ -32,3 +32,5 @@ This type of Approach is termed Linear Search and is mostly done on unsorted dat
 ### Linear Search Challenge
 
 ![My Image](../images/linear-search-challenge.png)
+
+See result for Challenge here [Linear Search](../Searching_Algorithm/LinearSearch.js).
