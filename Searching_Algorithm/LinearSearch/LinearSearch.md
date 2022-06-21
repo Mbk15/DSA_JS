@@ -34,3 +34,9 @@ This type of Approach is termed Linear Search and is mostly done on unsorted dat
 ![My Image](../images/linear-search-challenge.png)
 
 See result for Challenge here [Linear Search](../Searching_Algorithm/LinearSearch.js).
+
+### Linear Search Time Complexity
+
+1. Best 0(1)
+2. Average 0(n)
+3. Worst 0(n)
